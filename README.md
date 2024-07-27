@@ -7,5 +7,9 @@ Feel free to explore the repository and download the files to get started. Don't
 
 [Visit NOBTRONIX channel on YouTube](https://www.youtube.com/@nobtronix)
 
-# List of Visio tutorials:
+# List of Visio tutorials: 
 1- [Drawing Professional Waveforms in Visio](https://youtu.be/GdxE2OGsxSo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GdxE2OGsxSo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2- [How to Draw Electrical Circuits in Visio](https://youtu.be/5DXxDg5Vc8I)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5DXxDg5Vc8I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
