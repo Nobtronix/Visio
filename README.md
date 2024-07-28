@@ -3,7 +3,7 @@ Welcome to the GitHub repository for our Visio tutorial series uploaded on NOBTR
 
 This tutorial series covers a wide range of topics to help you master Visio for industrial reports, academic articles, and more. Whether you're a beginner or an experienced user, you'll find valuable resources here to enhance your diagramming skills.
 
-Feel free to explore the repository and download the files to get started. Don't forget to subscribe to our channel for more tutorials and updates on Visio and other software tools. Happy diagramming!
+Feel free to explore the repository and download the files to get started. Don't forget to subscribe to our channel for more tutorials and updates on Visio and other software tools.
 
 [Visit NOBTRONIX channel on YouTube](https://www.youtube.com/@nobtronix)
 
