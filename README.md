@@ -11,3 +11,6 @@ Feel free to explore the repository and download the files to get started. Don't
 1- [Drawing Professional Waveforms in Visio](https://youtu.be/GdxE2OGsxSo)
 
 2- [How to Draw Electrical Circuits in Visio](https://youtu.be/5DXxDg5Vc8I)
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
